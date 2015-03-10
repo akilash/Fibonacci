@@ -1,0 +1,13 @@
+# Xcode
+*.xccheckout
+xcuserdata
+DerivedData/
+build/
+.DS_Store
+.idea
+*.lock
+*.moved-aside:wq
+
+# Cocoapods related
+Pods
+!Podfile.lock
